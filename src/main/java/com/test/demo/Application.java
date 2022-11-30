@@ -11,9 +11,11 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 public class Application {
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);
+        System.out.println("Ciao Ale");
     }
 }
 //1005139b-912e-408c-a174-ee0e266aa2ba
+
 
 
 
