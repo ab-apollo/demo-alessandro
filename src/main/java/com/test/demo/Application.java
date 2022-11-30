@@ -15,7 +15,8 @@ public class Application {
 
         System.out.println("Hello Antonio--> Hai visto? ");
         SpringApplication.run(Application.class, args);
-        System.out.println("Ciao Ale");
+        System.out.println("Ciao Ale, si sono io!");
+
     }
 }
 //1005139b-912e-408c-a174-ee0e266aa2ba
